@@ -8,9 +8,9 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+## Simulation
 
-## Graph
+![WhatsApp Image 2025-11-28 at 10 35 54_c78f33fb](https://github.com/user-attachments/assets/32276c4c-2975-4a9b-87f7-72de4f71f062)
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
