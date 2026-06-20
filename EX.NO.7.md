@@ -11,14 +11,10 @@
 <img width="767" height="787" alt="image" src="https://github.com/user-attachments/assets/3593487d-75d4-4b26-b9b0-5eed91e18fb0" />
 
 
-## Tabulation
+##Simulation
 
-## Graph
+![WhatsApp Image 2025-11-28 at 10 35 55_135470ec](https://github.com/user-attachments/assets/75f713d8-6dde-4ad1-92d2-5008e4e1f768)
 
 
 ## *Result*
-
-
-
-
-
+Thus the wein bridge oscillation was designed and simulated using LT spice
